@@ -1,2 +1,3 @@
-# Automatic-Parking-Management-Application
-This project develops an Automatic Parking Management Application integrating sensors, microcontrollers, and databases to detect vehicles, manage entry/exit, and optimize parking spaces. It reduces human effort, saves time, improves security, and provides a smart, user-friendly solution.
+**General Introduction:**
+
+In the context of rapid urbanization in major cities such as Hanoi and Ho Chi Minh City, the demand for parking spaces is increasing, leading to traffic congestion and wasted time. The automatic parking system application is designed to address this issue by integrating modern technologies such as Automatic Number Plate Recognition (ANPR), RFID cards, and IoT. The prototype model uses the 8051 microcontroller to control gates and display status, the ESP32 for RFID card authentication, and Python software for license plate recognition via webcam, combined with the PlateRecognizer API. The system also has the potential to be expanded with mobile applications and IoT platforms such as Blynk, enabling remote monitoring and control.
