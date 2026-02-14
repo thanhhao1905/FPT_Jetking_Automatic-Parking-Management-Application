@@ -1,4 +1,3 @@
-````C
 #include <reg51.h>
 
 #define LCD_PORT P0  
